@@ -1102,6 +1102,7 @@ algorithms, knowledgebase and AI technology.
 * [Open Street Map](http://www.openstreetmap.org)
 * [OpenLayers](http://openlayers.org)
 * [Perry Castaneda Library](https://www.lib.utexas.edu/maps)
+* [Phantom Tide](https://phantom.labs.jamessawyer.co.uk/)
 * [Pic2Map](https://www.pic2map.com/)
 * [Polymaps](http://polymaps.org)
 * [QGIS](http://qgis.org)
