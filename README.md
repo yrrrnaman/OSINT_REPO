@@ -460,6 +460,7 @@ algorithms, knowledgebase and AI technology.
 * [Twitter Audit](https://www.twitteraudit.com)
 * [Twitter Chat Schedule](http://tweetreports.com/twitter-chat-schedule)
 * [Twitter Search](http://search.twitter.com)
+* [twtData](https://twtdata.com/) - Export followers, following and tweets of public X/Twitter accounts to CSV; free trends archive.
 
 ### [↑](#-table-of-contents) Facebook
 
